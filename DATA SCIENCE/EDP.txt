@@ -1,0 +1,5 @@
+EXPLORATORY DATA ANALYSIS
+
+1. Handle the missing data
+2. Handle Categorical Feature
+3. Feature Selection
